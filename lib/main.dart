@@ -27,8 +27,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  List<String> vid= ['UBMk30rjy0o','ISrATjuJFt0','ECxYJcnvyMw','UItWltVZZmE','dRngqiyLQ3Y'];
-  List<String> img=['assets/fbw.jpg','assets/brightside.png','assets/7minute.png', 'assets/beginerworkout.jpg','assets/15Minworkout.jpg'];
+  List<String> vid= ['UBMk30rjy0o','ISrATjuJFt0','ECxYJcnvyMw','UItWltVZZmE','dRngqiyLQ3Y','ePylP2XmNRs','WDIGXWZhC4M','egmchjtG_2Y','IC8SfzaG8_A','9MbMrOuVFXA','oRkBzvUnmlQ'];
+  List<String> img=['assets/fbw.jpg','assets/brightside.png','assets/7minute.png', 'assets/beginerworkout.jpg','assets/15Minworkout.jpg','assets/dia1.jpg','assets/dia2.jpg','assets/dia3.jpg','assets/dia4.jpg','assets/dia5.jpg','assets/dia6.jpg','assets/dia7.jpg'];
   TextEditingController textEditingControllerId = new TextEditingController();
   static String key = 'AIzaSyBHsTocwY3Z-uFvSpox3zVWHue-xtDGaKg';
   /*YoutubeAPI ytApi = new YoutubeAPI(key,maxResults: 20,type:'video');
